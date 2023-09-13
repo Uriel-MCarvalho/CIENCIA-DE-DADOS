@@ -17,7 +17,7 @@ Sinta-se à vontade para explorar os projetos e suas respectivas pastas para obt
 Eu acredito na colaboração e no compartilhamento de conhecimento. Se você estiver interessado em colaborar em algum projeto ou tiver ideias para trabalhos conjuntos relacionados à Ciência de Dados, Estatística ou qualquer campo que envolva dados, por favor, entre em contato! Vamos criar algo incrível juntos.
 
 ## Entre em Contato
-Você pode me encontrar no LinkedIn [aqui](https://www.linkedin.com/in/uriel-de-matos-carvalho-932146205/). Não hesite em enviar uma mensagem ou um convite de conexão - estou sempre ansioso para me conectar com outros entusiastas de dados e discutir projetos interessantes.
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/uriel-de-matos-carvalho-932146205/). Não hesite em enviar uma mensagem ou um convite de conexão - estou sempre ansioso para me conectar com outros entusiastas de dados e discutir projetos interessantes.
 
 ## Curiosidade
 Se você estiver curioso sobre minha personalidade, sou um INTJ-T, o que significa que sou um pensador lógico e estratégico.
